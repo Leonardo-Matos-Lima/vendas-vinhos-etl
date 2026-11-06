@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Airflow
+logs/*
+!logs/.gitkeep
+airflow.db/
+airflow.cfg/
+webserver_config.py
+
+# Dados
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Ambiente e configurações locais
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+
+# Spark / Hadoop
+.sparkStaging/
+metastore_db/
+
+# Arquivos temporários do Spark e Hadoop
+*.crc
+spark-warehouse/
+metastore_db/
