@@ -128,7 +128,7 @@ vendas-vinhos-etl/
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Leonardo-Matos-Lima/vendas-vinhos-etl.git
 cd vendas-vinhos-etl
 ```
 
@@ -198,7 +198,7 @@ Todos os conjuntos de dados são armazenados em formato Parquet.
 ## 🚀 Próximos passos
 
 - [x] Finalizar documentação do projeto.
-- [ ] Publicar o repositório no GitHub.
+- [x] Publicar o repositório no GitHub.
 - [ ] Desenvolver dashboards utilizando Power BI.
 - [ ] Documentar os indicadores de negócio.
 - [ ] Aprimorar monitoramento e validação dos dados.
