@@ -195,6 +195,22 @@ Processamento realizado sobre **307.645 registros**.
 
 Todos os conjuntos de dados são armazenados em formato Parquet.
 
+
+## 📊 Dashboards Power BI
+
+O projeto também conta com dashboards interativos desenvolvidos no Power BI, utilizando os conjuntos de dados da camada Gold do pipeline ETL.
+
+### Visão Geral
+
+![Dashboard - Visão Geral](power_bi/images/visao_geral.png)
+
+### Análise Comercial
+
+![Dashboard - Análise Comercial](power_bi/images/analise_comercial.png)
+
+O arquivo `.pbix` está disponível em `power_bi/dashboards/`.
+
+
 ## 🚀 Próximos passos
 
 - [x] Finalizar documentação do projeto.
