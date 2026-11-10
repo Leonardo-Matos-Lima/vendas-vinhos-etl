@@ -215,7 +215,7 @@ O arquivo `.pbix` está disponível em `power_bi/dashboards/`.
 
 - [x] Finalizar documentação do projeto.
 - [x] Publicar o repositório no GitHub.
-- [ ] Desenvolver dashboards utilizando Power BI.
+- [x] Desenvolver dashboards utilizando Power BI.
 - [ ] Documentar os indicadores de negócio.
 - [ ] Aprimorar monitoramento e validação dos dados.
 
